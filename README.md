@@ -22,7 +22,7 @@ Predict survival of Titanic passengers using only the raw dataset. Let the model
 git clone https://github.com/algorithmeai/will-i-survive-titanic.git
 cd will-i-survive-titanic
 python willisurvivetitanic.py
-
+```
 ## 🧾 License
 
 This project is licensed under the [MIT License](./LICENSE) — feel free to use, modify, and distribute.
