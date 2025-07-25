@@ -21,5 +21,5 @@ Predict survival of Titanic passengers using only the raw dataset. Let the model
 ```bash
 git clone https://github.com/algorithmeai/will-i-survive-titanic.git
 cd will-i-survive-titanic
-python willisurvivethetitanic.py
+python willisurvivetitanic.py
 
