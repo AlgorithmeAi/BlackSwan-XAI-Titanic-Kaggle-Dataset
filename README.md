@@ -1,4 +1,8 @@
 # 🚢 Will I Survive Titanic?
+
+[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](#)
+[![License](https://img.shields.io/badge/license-MIT-green)](#)
+
 ### Auditable Full-Auto ML on Kaggle Titanic Dataset with BlackSwan
 
 This project demonstrates how BlackSwan, a full-auto and auditable ML framework, achieves **0.79 accuracy** on the classic Titanic dataset — without manual feature engineering or tuning.
