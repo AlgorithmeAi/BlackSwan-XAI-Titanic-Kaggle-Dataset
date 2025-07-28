@@ -63,9 +63,40 @@ When calling `my_graphic_function`, you get:
 - `features_audit`: Shows how important each feature was in the decision.
 - `csv`: A generated table of similar passengers used for reasoning.
 
-## ✅ Requirements
 
-No external libraries required beyond Python 3 standard library.
+## 🚀 Run the Streamlit App
+
+You can use the interactive Titanic prediction app directly in your browser!
+
+### ✅ Installation
+
+Make sure you have Python 3.8+ installed, then run:
+
+```bash
+pip install streamlit pandas
+```
+
+### ▶️ Usage
+
+From the project root (where `app.py` is located), run:
+
+```bash
+streamlit run app.py
+```
+
+Or, if you're using the enhanced version with CSV lookalikes:
+
+```bash
+streamlit run app.py
+```
+
+### 🌐 What You’ll See
+
+- A browser-based form where you enter passenger details.
+- The model’s prediction of survival probability.
+- An explanation of which features contributed most.
+- A table of similar (lookalike) passengers from the dataset.
+
 
 ## 👤 Author
 
