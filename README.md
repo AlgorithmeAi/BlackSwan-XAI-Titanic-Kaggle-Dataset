@@ -1,4 +1,4 @@
-# 🚢 Will I Survive Titanic?
+# BlackSwan XAI Titanic Kaggle Dataset 🚢 Will I Survive Titanic?
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](#)
 [![License](https://img.shields.io/badge/license-MIT-green)](#)
