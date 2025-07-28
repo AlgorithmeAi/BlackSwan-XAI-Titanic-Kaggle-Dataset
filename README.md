@@ -69,7 +69,7 @@ No external libraries required beyond Python 3 standard library.
 
 ## 👤 Author
 
-Developed by **Charles Dana** under the Algorithme.ai.
+Developed by **Charles Dana** @ Algorithme.ai.
 
 ## 🧾 License
 
